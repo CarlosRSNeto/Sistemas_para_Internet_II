@@ -6,20 +6,18 @@ img {
     border-radius: 25px;
 }
 
-/* Estilo para o título */
 h1 {
     font-family: 'Arial', sans-serif;
     font-size: 2em;
-    color: #4CAF50; /* Verde */
+    color: #4CAF50;
     text-align: center;
     margin-top: 50px;
 }
 
-/* Estilo para os links */
 a {
     font-family: 'Verdana', sans-serif;
     font-size: 1.2em;
-    color: #FF5722; /* Laranja */
+    color: #FF5722;
     text-decoration: none;
     display: block;
     text-align: center;
@@ -27,14 +25,14 @@ a {
 }
 
 a:hover {
-    color: #E91E63; /* Rosa */
+    color: #E91E63;
     text-decoration: underline;
 }
 
 p {
     font-family: 'Verdana', sans-serif;
     font-size: 1.2em;
-    color: #FF5722; /* Laranja */
+    color: #FF5722;
     text-decoration: none;
     display: block;
     text-align: center;
