@@ -1,0 +1,52 @@
+img {
+    
+    height: 200px;
+    width: 200px;
+
+    border-radius: 25px;
+}
+
+/* Estilo para o título */
+h1 {
+    font-family: 'Arial', sans-serif;
+    font-size: 2em;
+    color: #4CAF50; /* Verde */
+    text-align: center;
+    margin-top: 50px;
+}
+
+/* Estilo para os links */
+a {
+    font-family: 'Verdana', sans-serif;
+    font-size: 1.2em;
+    color: #FF5722; /* Laranja */
+    text-decoration: none;
+    display: block;
+    text-align: center;
+    margin: 10px 0;
+}
+
+a:hover {
+    color: #E91E63; /* Rosa */
+    text-decoration: underline;
+}
+
+p {
+    font-family: 'Verdana', sans-serif;
+    font-size: 1.2em;
+    color: #FF5722; /* Laranja */
+    text-decoration: none;
+    display: block;
+    text-align: center;
+    margin: 10px 0;
+}
+
+table {
+    font-size: 2em;
+    color: #000000;
+    text-align: center;
+}
+
+div {
+    text-align: center;
+}
